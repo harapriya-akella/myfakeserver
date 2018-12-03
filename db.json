@@ -1,0 +1,30 @@
+{
+    "clients":[
+                {
+                    "name" : "person1",
+                    "email" : "person1@gmail.com",
+                    "phone" : "1234667890"
+                },
+                {
+                    "name" : "person2",
+                    "email" : "person2@gmail.com",
+                    "phone" : "1234667890"
+                },
+                {
+                    "name" : "person3",
+                    "email" : "person3@gmail.com",
+                    "phone" : "1234667890"
+                },
+                {
+                    "name" : "person4",
+                    "email" : "person4@gmail.com",
+                    "phone" : "1234667890"
+                },
+                {
+                    "name" : "person5",
+                    "email" : "person5@gmail.com",
+                    "phone" : "1234667890"
+                }
+            
+    ]
+}
